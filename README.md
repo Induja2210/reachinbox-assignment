@@ -1,4 +1,4 @@
-# ReachInbox – Email Scheduling System
+# email-scheduler-service
 
 **Developed by: Induja B**
 
